@@ -1,5 +1,5 @@
 name: "기능 요청"
-description: "새로운 기능을 제안하거나 요청합니다."
+description: "새로운 기능의 추가 또는 기존 기능의 개선을 요청하거나 제안합니다."
 title: "[Feature] "
 labels: ["enhancement"]
 type: feature

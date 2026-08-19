@@ -1,5 +1,5 @@
 name: "문서 작업 요청"
-description: "문서의 추가, 수정 또는 개선을 요청합니다."
+description: "문서의 추가, 수정 또는 개선을 요청하거나 제안합니다."
 title: "[Documentation] "
 labels: ["documentation"]
 type: task
