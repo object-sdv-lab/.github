@@ -26,9 +26,9 @@
 | 대상 | 예시 |
 | --- | --- |
 | 클래스, 구조체, 열거형, 타입 별칭 | `VehicleStateMonitor`, `SensorStatus` |
+| 인터페이스 | `IVehicleStateMonitor`, `ISensorGateway` |
 | 함수, 메서드 | `update_vehicle_state()`, `is_signal_valid()` |
 | 지역 변수, 매개변수 | `vehicle_speed_kph`, `sensor_status` |
 | 클래스 멤버 변수 | `vehicle_speed_kph_`, `sensor_status_` |
-| 상수, 상수 표현식 | `kMaxVehicleSpeedKph`, `kSensorTimeoutMs` |
+| 상수, 상수 표현식, 매크로 | `MAX_VEHICLE_SPEED_KPH`, `SENSOR_TIMEOUT_MS`, `VEHICLE_CONTROL_ENABLED` |
 | 네임스페이스 | `vehicle_control`, `sensor_gateway` |
-| 매크로 | `VEHICLE_CONTROL_ENABLED` |
