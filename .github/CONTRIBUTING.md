@@ -10,16 +10,16 @@
 ## 네이밍 룰
 
 ### 브랜치
-- 기능 개발: `feature/123-vehicle-state-monitor`
-- 오류 수정: `fix/456-sensor-timeout`
-- 문서 추가·수정: `docs/789-update-driving-mode-guide`
+- 기능 요청: `feature/123-vehicle-state-monitor`
+- 버그 신고: `fix/456-sensor-timeout`
+- 문서 작업 요청: `docs/789-update-driving-mode-guide`
 
 ### 커밋 메시지
-- 기능 추가: `feat: 차량 상태 모니터링 기능 추가`
+- 기능 추가·개선: `feat: 차량 상태 모니터링 기능 추가`
 - 오류 수정: `fix: 센서 데이터 수신 지연 시 잘못된 상태 전이 수정`
 - 리팩토링: `refactor: 차량 상태 검증 로직 분리`
-- 문서 추가·수정: `docs: 주행 모드 전환 절차 보완`
-- 테스트 추가·수정: `test: 통신 단절 및 재연결 시나리오 추가`
+- 문서 추가·수정·개선: `docs: 주행 모드 전환 절차 보완`
+- 테스트 추가·수정·개선: `test: 통신 단절 및 재연결 시나리오 추가`
 - 개발 환경 및 기타 유지보수: `chore: 개발 도구 설정 갱신`
 
 ### 코드
