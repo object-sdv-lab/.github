@@ -33,13 +33,3 @@ body:
     id: additional
     attributes:
       label: 참고 자료
-
-  - type: checkboxes
-    id: checklist
-    attributes:
-      label: 체크리스트
-      options:
-        - label: 같은 버그가 이미 등록되어 있는지 확인했습니다.
-          required: true
-        - label: 비밀번호, API 키 등 민감한 정보를 제거했습니다.
-          required: true
